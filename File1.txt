@@ -1,1 +1,2 @@
 	- Few lines entered from local repository.
+	- Second line added from local repo to create merge conflict

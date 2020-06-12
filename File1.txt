@@ -1,3 +1,4 @@
 	- Few lines entered from local repository.
 	- Modify Fi1e1 contents from remote repo- new 2nd line added
 	- Second line added from local repo to create merge conflict -- moved to 3rd line while resolving conflict
+	- Fourth line added to file1 to see if it clashes with file2 created in remote repo is out of sync with local repo
